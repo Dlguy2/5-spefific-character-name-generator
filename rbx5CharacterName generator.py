@@ -3,8 +3,9 @@ import requests
 import string
 import random
 import time
-print('this is made on version 23.2.1')
+print('this is made on version python 23.2.1')
 print('may not work on other versions')
+print('custom generator(1.0) made by dsploiter')
 print('')
 print('')
 print('1 : false (recomended for collecting )')
